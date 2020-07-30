@@ -451,9 +451,9 @@ body{
   --bg-color: rgb(10, 10, 10);
   --text-color: #fff;
   --blog-gray-color: rgb(180, 180, 180);
-  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://s8.wampi.ru/2019/07/12/android.jpg");
+  --background-image: linear-gradient(90deg, rgba(10, 10, 10, 0.6), rgb(10, 10, 10, 1)), url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9934c2e9-ecea-450d-afe9-a5441e4eec7b/d2gxkon-4643495f-e860-4e7b-96c3-cf6fd976d5b3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTkzNGMyZTktZWNlYS00NTBkLWFmZTktYTU0NDFlNGVlYzdiXC9kMmd4a29uLTQ2NDM0OTVmLWU4NjAtNGU3Yi05NmMzLWNmNmZkOTc2ZDViMy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.6ow2DN7pgWkiQ64mV2ejLMepWFyz-c0ZRlB8QWJ5aHc");
   --background-background: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0.6)),
-    url("https://s8.wampi.ru/2019/07/12/android.jpg") center center fixed;
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9934c2e9-ecea-450d-afe9-a5441e4eec7b/d2gxkon-4643495f-e860-4e7b-96c3-cf6fd976d5b3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTkzNGMyZTktZWNlYS00NTBkLWFmZTktYTU0NDFlNGVlYzdiXC9kMmd4a29uLTQ2NDM0OTVmLWU4NjAtNGU3Yi05NmMzLWNmNmZkOTc2ZDViMy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.6ow2DN7pgWkiQ64mV2ejLMepWFyz-c0ZRlB8QWJ5aHc") center center fixed;
   --height: 50vh;
 }
 #display h1 {
@@ -475,6 +475,6 @@ body{
 @media (max-width: 800px) {
   :root {
     --background-image: linear-gradient(0deg, rgba(10, 10, 10, 1), rgba(10, 10, 10, 0)),
-    url("https://s8.wampi.ru/2019/07/12/android.jpg") !important;
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9934c2e9-ecea-450d-afe9-a5441e4eec7b/d2gxkon-4643495f-e860-4e7b-96c3-cf6fd976d5b3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTkzNGMyZTktZWNlYS00NTBkLWFmZTktYTU0NDFlNGVlYzdiXC9kMmd4a29uLTQ2NDM0OTVmLWU4NjAtNGU3Yi05NmMzLWNmNmZkOTc2ZDViMy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.6ow2DN7pgWkiQ64mV2ejLMepWFyz-c0ZRlB8QWJ5aHc") !important;
   }
 }
